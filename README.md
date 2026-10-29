@@ -75,7 +75,7 @@ The Metabase dashboard brings together multiple visualization types to support e
 
 The dashboard was designed to support reusable analysis through filters and automatic refresh.
 
-[Click here to see full version of the dashboard in PDF](dashboard/)
+![Click here to see full version of the dashboard in PDF](dashboard/Metabase - Final Project.pdf)
 [Or click here if you want to visit Metabase website for an interactive version](https://metabase.simulative.ru/dashboard/661-final-project?tab=473)
 
 ## Repository Structure
