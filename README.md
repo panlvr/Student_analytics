@@ -10,7 +10,7 @@ The project combines SQL-based data analysis, interactive dashboarding in Metaba
 
 The goal was to analyze the activity of students belonging to a corporate client on the IT Resume educational platform and identify patterns that could help stakeholders better understand student engagement, learning progress, and platform usage.
 
-**Check out the full report [here](fffff)**
+**Check out the full report [here](report/SQL%20Final%20Project.pdf)**
 
 The analysis covers five areas:
 
@@ -126,7 +126,7 @@ The findings are limited to the available dataset, its recorded events, and the 
 
 Цель проекта заключалась в анализе активности студентов корпоративного заказчика на образовательной платформе IT Resume и выявлении закономерностей, которые помогают оценить вовлечённость, прогресс обучения и использование возможностей платформы.
 
-**Полный отчет можно посмотреть [здесь](fffff)**
+**Полный отчет можно посмотреть [здесь](report/SQL%20Final%20Project.pdf)**
 
 Анализ включает пять направлений:
 
