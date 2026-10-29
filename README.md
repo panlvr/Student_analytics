@@ -28,11 +28,16 @@ The analysis covers five areas:
 
 ### 1. Engagement
 
+![Engagement Dashboard](dashboard/screenshots/engagement.png)
+
 - Median active learning days per student: **3 days** during the observation period.
 - Approximately **26% of students** had no recorded active learning days.
 - Daily, weekly, and monthly activity metrics showed different engagement patterns, suggesting that platform usage was not consistently daily.
 
 ### 2. Curriculum Progress
+
+![Progress Dashboard 1](dashboard/screenshots/progress_1.png)
+![Progress Dashboard 2](dashboard/screenshots/progress_2.png)
 
 - **98.4% of assigned problems** were solved by at least one student in the cohort.
 - Median individual curriculum completion was approximately **5.65%**, while the maximum was approximately **43.55%**.
@@ -40,16 +45,23 @@ The analysis covers five areas:
 
 ### 3. Problem-Solving Friction
 
+![Friction Dashboard](dashboard/screenshots/friction.png)
+
 - The median number of failed submissions before a student's first successful solution was **2**.
 - Failure rates were compared across problem difficulty levels and programming languages to explore potential differences in problem-solving friction.
 
 ### 4. Assessment
+
+![Assessment Dashboard](dashboard/screenshots/assessment.png)
 
 - Approximately **10.53% of students** started at least one test.
 - Approximately **7.52% of students** completed at least one test.
 - Test participation was low relative to the total cohort size.
 
 ### 5. Virtual Economy
+
+![Economy Dashboard 1](dashboard/screenshots/economy_1.png)
+![Economy Dashboard 2](dashboard/screenshots/economy_2.png)
 
 - **94.7% of students** earned virtual currency.
 - **69.2% of students** spent virtual currency.
@@ -61,15 +73,10 @@ The analysis covers five areas:
 
 The Metabase dashboard brings together multiple visualization types to support exploration of the five analytical areas.
 
-**Dashboard screenshots:**
-
-<!-- Add screenshots here, for example:
-![Engagement and Progress Dashboard](dashboard/engagement-progress.png)
-![Friction and Assessment Dashboard](dashboard/friction-assessment.png)
-![Economy Dashboard](dashboard/economy.png)
--->
-
 The dashboard was designed to support reusable analysis through filters and automatic refresh.
+
+[Click here to see full version of the dashboard in PDF](dashboard/)
+[Or click here if you want to visit Metabase website for an interactive version](https://metabase.simulative.ru/dashboard/661-final-project?tab=473)
 
 ## Repository Structure
 
