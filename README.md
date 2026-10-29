@@ -10,7 +10,7 @@ The project combines SQL-based data analysis, interactive dashboarding in Metaba
 
 The goal was to analyze the activity of students belonging to a corporate client on the IT Resume educational platform and identify patterns that could help stakeholders better understand student engagement, learning progress, and platform usage.
 
-**Check out the full report [here](report/SQL%20Final%20Project.pdf)**
+**Check out the full report [here](report/Analytical%20Report_eng.pdf)**
 
 The analysis covers five areas:
 
