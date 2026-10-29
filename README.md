@@ -10,6 +10,8 @@ The project combines SQL-based data analysis, interactive dashboarding in Metaba
 
 The goal was to analyze the activity of students belonging to a corporate client on the IT Resume educational platform and identify patterns that could help stakeholders better understand student engagement, learning progress, and platform usage.
 
+**Check out the full report [here](fffff)**
+
 The analysis covers five areas:
 
 - **Engagement:** How actively do students use the platform?
@@ -28,11 +30,16 @@ The analysis covers five areas:
 
 ### 1. Engagement
 
+![Engagement Dashboard](dashboard/screenshots/engagement.png)
+
 - Median active learning days per student: **3 days** during the observation period.
 - Approximately **26% of students** had no recorded active learning days.
 - Daily, weekly, and monthly activity metrics showed different engagement patterns, suggesting that platform usage was not consistently daily.
 
 ### 2. Curriculum Progress
+
+![Progress Dashboard 1](dashboard/screenshots/progress_1.png)
+![Progress Dashboard 2](dashboard/screenshots/progress_2.png)
 
 - **98.4% of assigned problems** were solved by at least one student in the cohort.
 - Median individual curriculum completion was approximately **5.65%**, while the maximum was approximately **43.55%**.
@@ -40,16 +47,23 @@ The analysis covers five areas:
 
 ### 3. Problem-Solving Friction
 
+![Friction Dashboard](dashboard/screenshots/friction.png)
+
 - The median number of failed submissions before a student's first successful solution was **2**.
 - Failure rates were compared across problem difficulty levels and programming languages to explore potential differences in problem-solving friction.
 
 ### 4. Assessment
+
+![Assessment Dashboard](dashboard/screenshots/assessment.png)
 
 - Approximately **10.53% of students** started at least one test.
 - Approximately **7.52% of students** completed at least one test.
 - Test participation was low relative to the total cohort size.
 
 ### 5. Virtual Economy
+
+![Economy Dashboard 1](dashboard/screenshots/economy_1.png)
+![Economy Dashboard 2](dashboard/screenshots/economy_2.png)
 
 - **94.7% of students** earned virtual currency.
 - **69.2% of students** spent virtual currency.
@@ -61,15 +75,11 @@ The analysis covers five areas:
 
 The Metabase dashboard brings together multiple visualization types to support exploration of the five analytical areas.
 
-**Dashboard screenshots:**
-
-<!-- Add screenshots here, for example:
-![Engagement and Progress Dashboard](dashboard/engagement-progress.png)
-![Friction and Assessment Dashboard](dashboard/friction-assessment.png)
-![Economy Dashboard](dashboard/economy.png)
--->
-
 The dashboard was designed to support reusable analysis through filters and automatic refresh.
+
+[Click here to see full version of the dashboard in PDF](dashboard/Metabase%20-%20Final%20Project.pdf)
+
+[Or click here if you want to visit Metabase website for an interactive version](https://metabase.simulative.ru/dashboard/661-final-project?tab=473)
 
 ## Repository Structure
 
@@ -116,6 +126,8 @@ The findings are limited to the available dataset, its recorded events, and the 
 
 Цель проекта заключалась в анализе активности студентов корпоративного заказчика на образовательной платформе IT Resume и выявлении закономерностей, которые помогают оценить вовлечённость, прогресс обучения и использование возможностей платформы.
 
+**Полный отчет можно посмотреть [здесь](fffff)**
+
 Анализ включает пять направлений:
 
 - **Вовлечённость:** насколько активно студенты пользуются платформой?
@@ -134,11 +146,16 @@ The findings are limited to the available dataset, its recorded events, and the 
 
 ### 1. Вовлечённость
 
+![Engagement Dashboard](dashboard/screenshots/engagement.png)
+
 - Медианное количество активных учебных дней на одного студента составило **3 дня** за период наблюдения.
 - Примерно **26% студентов** не имели зафиксированных активных учебных дней.
 - Показатели ежедневной, недельной и месячной активности демонстрировали разные закономерности, что указывает на отсутствие стабильно ежедневной активности у значительной части студентов.
 
 ### 2. Прогресс обучения
+
+![Progress Dashboard 1](dashboard/screenshots/progress_1.png)
+![Progress Dashboard 2](dashboard/screenshots/progress_2.png)
 
 - **98,4% назначенных задач** были решены хотя бы одним студентом группы.
 - Медианная индивидуальная завершённость программы составила около **5,65%**, максимальная достигла примерно **43,55%**.
@@ -146,16 +163,23 @@ The findings are limited to the available dataset, its recorded events, and the 
 
 ### 3. Сложности при решении задач
 
+![Friction Dashboard](dashboard/screenshots/friction.png)
+
 - Медианное количество неудачных отправок решения до первого успешного решения студента составило **2**.
 - Доли неудачных отправок анализировались в разрезе сложности задач и языков программирования для выявления возможных различий в трудностях обучения.
 
 ### 4. Тестирование
+
+![Assessment Dashboard](dashboard/screenshots/assessment.png)
 
 - Примерно **10,53% студентов** начали хотя бы один тест.
 - Примерно **7,52% студентов** завершили хотя бы один тест.
 - Участие в тестировании оказалось низким относительно общего количества студентов группы.
 
 ### 5. Внутренняя экономика платформы
+
+![Economy Dashboard 1](dashboard/screenshots/economy_1.png)
+![Economy Dashboard 2](dashboard/screenshots/economy_2.png)
 
 - **94,7% студентов** зарабатывали внутреннюю виртуальную валюту.
 - **69,2% студентов** тратили виртуальную валюту.
@@ -167,15 +191,11 @@ The findings are limited to the available dataset, its recorded events, and the 
 
 Дашборд в Metabase объединяет несколько типов визуализаций и позволяет исследовать все пять направлений анализа.
 
-**Скриншоты дашборда:**
-
-<!-- Добавьте сюда скриншоты, например:
-![Дашборд: вовлечённость и прогресс](dashboard/engagement-progress.png)
-![Дашборд: сложности и тестирование](dashboard/friction-assessment.png)
-![Дашборд: экономика платформы](dashboard/economy.png)
--->
-
 Дашборд предназначен для повторного использования: он предусматривает фильтры и автоматическое обновление данных.
+
+[Посмотреть полную версию дашборда в PDF-формате](dashboard/Metabase%20-%20Final%20Project.pdf)
+
+[Перейти на сайт Metabase для просмотра интерактивной версии](https://metabase.simulative.ru/dashboard/661-final-project?tab=473)
 
 ## Структура репозитория
 
